@@ -101,7 +101,7 @@ try{
 [Paypal Me](https://paypal.me/yangfubing)
 
 ## 银行代码<->银行中文名对照
-[银行代码](resource/bankcode.json)
+[银行代码](https://github.com/burningmyself/bank/blob/master/bank.logo/resource/bankcode.json)
 
  'SRCB': '深圳农村商业银行', 
   'BGB': '广西北部湾银行', 
