@@ -1,0 +1,45 @@
+{
+  "name": "chinabankbin",
+  "version": "1.0.1",
+  "description": "按银行卡卡号快速检测该银行卡类型，银行名称，银行代码",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burningmyself/bank.git"
+  },
+  "keywords": [
+    "bankcard",
+    "bankname",
+    "bankinfo",
+    "bank",
+    "银行卡",
+    "银行名字",
+    "根据银行卡号查询银行信息",
+    "银行卡bin",
+    "查询"
+  ],
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  },
+  "author": {
+    "name": "burningmyself"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burningmyself/bank/issues"
+  },
+  "homepage": "https://github.com/burningmyself/bank",
+  "maintainers": [
+    {
+      "name": "burningmyself",
+      "email": "1928881525@qq.com"
+    }
+  ],
+  "directories": {}
+}
