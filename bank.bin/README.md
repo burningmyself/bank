@@ -81,4 +81,9 @@ try{
 2. 当系统自带的规则获取不到卡bin时，会调用支付宝的接口来获取，[测试地址](https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=6227003320232234322&cardBinCheck=true)
 3. 支持 es6 import
 
+## 捐赠
 
+如果你觉得这写文章能帮助到了你，你可以帮作者买一杯果汁表示鼓励
+![pay](https://github.com/burningmyself/bank/raw/master/bank.logo/resource/pay.png)
+
+[Paypal Me](https://paypal.me/yangfubing)
